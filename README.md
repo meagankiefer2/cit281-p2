@@ -5,13 +5,15 @@
 * Gain experience writing and executing non-web server Node.js JavaScript code
 * Practice refactoring JavaScript code
 
+
 ### Technologies used
-	Git software
-	Terminal
-	Visual Studio Code
+`Git software`
+`Terminal`
+`Visual Studio Code`
+
 
 ### What I learned
-	How to work with git commands in the CLI and write Node.js Javascript code
+How to work with git commands in the CLI and write Node.js Javascript code
 
 
 Project 2 Function Expressions 
