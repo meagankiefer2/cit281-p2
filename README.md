@@ -1,10 +1,18 @@
 ## CIT 281 Project 2
 
-### Purpose of the Project
+### Purpose of Project 2
+* Gain experience using git 
+* Gain experience writing and executing non-web server Node.js JavaScript code
+* Practice refactoring JavaScript code
 
 ### Technologies used
+	Git software
+	Terminal
+	Visual Studio Code
 
 ### What I learned
+	How to work with git commands in the CLI and write Node.js Javascript code
+
 
 Project 2 Function Expressions 
 
